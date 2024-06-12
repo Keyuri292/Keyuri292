@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     I am interested in Competitive Coding. :blue_heart: :bowtie: :cherry_blossom:
   </div>
   <div align=center>
-    <img src="https://github.com/Keyuri292/Keyuri292/raw/main/assets/mygif.gif" alt="Purple and White Modern Geometric Animated Youtube Channel Intro Video" width="200"/>
+    <img src="https://github.com/Keyuri292/Keyuri292/raw/main/assets/mygif.gif" alt="Purple and White Modern Geometric Animated Youtube Channel Intro Video" width="500"/>
   </div>
 </div>
 
