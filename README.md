@@ -16,17 +16,45 @@ Here are some ideas to get you started:
 -->
 
 ### Welcome!
+<html>
+  <head>
+    <style>
+  *{
+    margin: 0;
+    padding: 0;
+}
+.first{
+    width:50vw;
+    height: 100px;
+    background-color: #c4c4;
+    float: left;
+    
+}
+
+.second {
+    width: 50vw;
+    height: 100px;
+    background-color: blueviolet;
+    float: right;
+ 
+}
+</style>
+<link rel="stylesheet" href="css/myCSS.css" />
+  </head>
+<body>
+<div align=left>
+  <div class="first">
+    Hello, I am Keyuri Trivedi, a Computer Science student. <br>
+    I am a final year student pursuing a bachelor's in Computer Engineering. <br>
+    I am interested in Competitive Coding. :blue_heart: :bowtie: :cherry_blossom:
+  </div>
+  <div class="second">
+    <img src="https://github.com/Keyuri292/Keyuri292/raw/main/assets/mygif.gif" alt="Purple and White Modern Geometric Animated Youtube Channel Intro Video" width="200"/>
+  </div>
+</div>
+
 <table style="width: 100%; border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none; vertical-align: top; padding: 0 20px 0 0;">
-      <p style="margin: 0;">Hello I am Keyuri Trivedi, a Computer Science student. :blue_heart:</p>
-      <p style="margin: 0;">I am a final year student pursuing bachelor's in Computer Engineering. :bowtie:</p>
-      <p style="margin: 0;">I am interested in Competitive Coding. :cherry_blossom:</p>
-    </td>
-    <td style="border: none; vertical-align: top; padding: 0;">
-      <img src="https://github.com/Keyuri292/Keyuri292/raw/main/assets/mygif.gif" alt="Purple and White Modern Geometric Animated Youtube Channel Intro Video" width="200"/>
-    </td>
-  </tr>
+
   <tr>
     <td>Databases: </td>
     <td>
@@ -78,12 +106,7 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keyuri292&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
     </td>
   </tr>
-  <tr>
-    <td>Just A Joke: </td>
-    <td>
-      <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-    </td>
-  </tr>
+  
   <tr>
     <td>
       Linkedin: 
@@ -93,3 +116,5 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+</body>
+</html>
