@@ -18,28 +18,7 @@ Here are some ideas to get you started:
 ### Welcome!
 <html>
   <head>
-    <style>
-  *{
-    margin: 0;
-    padding: 0;
-}
-.first{
-    width:50vw;
-    height: 100px;
-    background-color: #c4c4;
-    float: left;
-    
-}
-
-.second {
-    width: 50vw;
-    height: 100px;
-    background-color: blueviolet;
-    float: right;
- 
-}
-</style>
-<link rel="stylesheet" href="css/myCSS.css" />
+    <link rel="stylesheet" href="css/myCSS.css" />
   </head>
 <body>
 <div align=left>
