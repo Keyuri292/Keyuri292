@@ -1,4 +1,4 @@
-i## Hi there 👋
+## Hi there 👋
 
 <!--
 **Keyuri292/Keyuri292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
