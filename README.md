@@ -16,18 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ### Welcome!
-<html>
-  <head>
-    <link rel="stylesheet" href="css/myCSS.css" />
-  </head>
-<body>
+
 <div align=left>
-  <div class="first">
+  <div>
     Hello, I am Keyuri Trivedi, a Computer Science student. <br>
     I am a final year student pursuing a bachelor's in Computer Engineering. <br>
     I am interested in Competitive Coding. :blue_heart: :bowtie: :cherry_blossom:
   </div>
-  <div class="second">
+  <div>
     <img src="https://github.com/Keyuri292/Keyuri292/raw/main/assets/mygif.gif" alt="Purple and White Modern Geometric Animated Youtube Channel Intro Video" width="200"/>
   </div>
 </div>
@@ -95,5 +91,4 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-</body>
-</html>
+
