@@ -1,4 +1,4 @@
-## Hi there 👋
+i## Hi there 👋
 
 <!--
 **Keyuri292/Keyuri292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
       <p style="margin: 0;">I am interested in Competitive Coding. :cherry_blossom:</p>
     </td>
     <td style="border: none; vertical-align: top; padding: 0;">
-      <img src="https://github.com/Keyuri292/Myself/assets/115882560/afca7d51-773a-418f-8f9e-2f2613269bc7" alt="Purple and White Modern Geometric Animated Youtube Channel Intro Video" width="200"/>
+      <img src="https://github.com/Keyuri292/Keyuri292/GIF" alt="Purple and White Modern Geometric Animated Youtube Channel Intro Video" width="200"/>
     </td>
   </tr>
   <tr>
