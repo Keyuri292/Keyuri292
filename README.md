@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <div align=left>
   <div>
-    Hello, I am Keyuri Trivedi, a Computer Science student. <br>
-    I am a final year student pursuing a bachelor's in Computer Engineering. <br>
-    I am interested in Competitive Coding. :blue_heart: :bowtie: :cherry_blossom:
+    Hello, I am Keyuri Trivedi, a Computer Science student.:blue_heart: <br>
+    I am a final year student pursuing a bachelor's in Computer Engineering.:bowtie: <br>
+    I am interested in Competitive Coding.:cherry_blossom:
   </div>
   <div align=center>
     <img src="https://github.com/Keyuri292/Keyuri292/raw/main/assets/mygif.gif" alt="Purple and White Modern Geometric Animated Youtube Channel Intro Video" width="500"/>
