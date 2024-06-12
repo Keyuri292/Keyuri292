@@ -24,7 +24,7 @@ Here are some ideas to get you started:
       <p style="margin: 0;">I am interested in Competitive Coding. :cherry_blossom:</p>
     </td>
     <td style="border: none; vertical-align: top; padding: 0;">
-      <img src="https://github.com/Keyuri292/Keyuri292/GIF" alt="Purple and White Modern Geometric Animated Youtube Channel Intro Video" width="200"/>
+      <img src="https://github.com/Keyuri292/Keyuri292/assets/mygif.gif" alt="Purple and White Modern Geometric Animated Youtube Channel Intro Video" width="200"/>
     </td>
   </tr>
   <tr>
