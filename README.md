@@ -92,3 +92,4 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+![Keyuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keyuri292&show_icons=true)
