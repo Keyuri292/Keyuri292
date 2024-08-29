@@ -92,5 +92,4 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<script src="//code.tidio.co/bojztstbmqa0a675dv8r3gftllchw3rp.js" async></script>
 </body>
