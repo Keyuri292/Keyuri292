@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 **Welcome!**
+
 <link rel="stylesheet" type="text/css" href="myCSS.css">
+
 Hello, I'm **Keyuri Trivedi**, a Computer Science graduate with a passion for Competitive Coding. 💻🌟
 
 <div align="center">
