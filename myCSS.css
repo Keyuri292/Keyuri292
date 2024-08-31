@@ -1,18 +1,4 @@
- *{
-    margin: 0;
-    padding: 0;
-}
-.first{
-    width:50vw;
-    height: 100px;
-    background-color: #c4c4;
-    float: left;
-    
-}
-.second {
-    width: 50vw;
-    height: 100px;
-    background-color: blueviolet;
-    float: right;
- 
+img:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
 }
