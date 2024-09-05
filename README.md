@@ -30,7 +30,9 @@ Hello, I'm **Keyuri Trivedi**, a Computer Science graduate with a passion for Co
 
 ---
 
-### 🌐 **Connect with Me**
+### 🌐 **Social Profiles**
 <p>
   <a href="https://www.linkedin.com/in/keyuritrivedi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.codechef.com/users/keyuri_292" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B8C5A?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"></a>
 </p>
+
