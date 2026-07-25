@@ -47,9 +47,9 @@ Full-stack restaurant app    →    Android + Firebase REST APIs   →    1000+ 
 Diverse problem-solving      →    Python + JavaScript            →    Breadth across paradigms
                                   Game logic, data pipelines           Toolbox expansion
 
-Enterprise backend scaling   →    ASP.NET (C#), Entity Framework  →    Mentored 7+ engineers
-                                  HTML/CSS/JS/jQuery frontend         CRUD at scale
-                                  SQL Server, REST APIs, JWT          Production patterns
+Enterprise backend scaling   →    ASP.NET (C#), Entity Framework  →    Shipped production features
+                                  HTML/CSS/JS/jQuery frontend         CRUD operations at scale
+                                  SQL Server, REST APIs, JWT          Clean architecture patterns
 
 Web framework mastery        →    Django, Python, ORM             →    Production ready
                                   Database migrations, deployment      Learning patterns
