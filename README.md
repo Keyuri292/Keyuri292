@@ -1,16 +1,31 @@
-## Hi there 👋
-
-**Welcome!**
-
-<link rel="stylesheet" type="text/css" href="myCSS.css">
-
-Hello, I'm **Keyuri Trivedi**, a Computer Science graduate with a passion for Competitive Coding. 💻🌟
+<!-- Profile header -->
+# Keyuri Trivedi
 
 <div align="center">
-  <img src="https://github.com/Keyuri292/Keyuri292/raw/main/assets/mygif.gif" alt="Animated GIF" width="400"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=160&section=header&text=Hey,%20I'm%20Keyuri%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=2C5364&center=true&vCenter=true&width=600&lines=Software+Engineer;Production+code+%3E+clever+code;Competitive+coding+on+the+side%2C+when+bored" />
+
+<sub>Ship it clean, keep it lean.</sub>
+
+<br/>
+
+<img src="https://github.com/Keyuri292/Keyuri292/raw/main/assets/mygif.gif" width="380"/>
+
 </div>
 
----
+
+### 🔧 Selected projects
+
+- [School-Management-Portal](https://github.com/Keyuri292/School-Management-Portal) — Web portal for managing students, staff, attendance and records. A solid full-stack project demonstrating CRUD flows and role-based views.
+- [djangoProject](https://github.com/Keyuri292/djangoProject) — Django-based application (learning & experiments). Good place to show Django fundamentals and deployable settings.
+- [Order-Food-Application](https://github.com/Keyuri292/Order-Food-Application) — Restaurant ordering app with menu, cart and order flow; demonstrates UI + backend integration.
+- [QRCodeAttendence](https://github.com/Keyuri292/QRCodeAttendence) — Attendance system using QR codes; shows practical hardware/IO or mobile integration patterns.
+- [Generating_Report_Using_Python](https://github.com/Keyuri292/Generating_Report_Using_Python) — Utilities and scripts to generate reports (PDF/CSV) from data sources.
+- [Hangman_Game](https://github.com/Keyuri292/Hangman_Game) — Lightweight game project (Python/JS) useful to show testing, game logic, and UI skills.
+
+
 
 ### 🛠️ **My Toolbox**
 
