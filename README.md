@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=180&section=header&text=Hi,%20I'm%20Keyuri%20Trivedi%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=00C6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Building+reliable+backend+systems;.NET+%7C+Blazor+%7C+SQL+%7C+REST+APIs;Clean+Code+%E2%80%A2+Continuous+Learning+%E2%80%A2+Problem+Solving" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=00C6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Building+reliable+backend+systems;ASP.NET+%7C+C%23+%7C+SQL+Server+%7C+REST+APIs;Clean+Code+%E2%80%A2+Continuous+Learning+%E2%80%A2+Problem+Solving" />
 
 <br/>
 
@@ -22,9 +22,9 @@ Started my journey as a Software Engineering Intern and transitioned into a full
 
 ### ⚡ Quick Facts
 
-- 🔭 Currently building backend features and clean-architecture solutions in the **.NET ecosystem**
+- 🔭 Currently building backend features and clean-architecture solutions with **ASP.NET (C#) and SQL Server**
 - 🌱 Currently learning **Django deployment & production-ready configurations**
-- 💬 Ask me about **.NET, Blazor, SQL Server, REST APIs, JWT Authentication**
+- 💬 Ask me about **ASP.NET, C#, Entity Framework, SQL Server, REST APIs, JWT Authentication, HTML/CSS/JS/jQuery**
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/keyuritrivedi)**
 - 🧭 My path so far: started with **Android + Firebase mobile apps**, then moved into **enterprise .NET backend systems**
 
@@ -47,9 +47,9 @@ Full-stack restaurant app    →    Android + Firebase REST APIs   →    1000+ 
 Diverse problem-solving      →    Python + JavaScript            →    Breadth across paradigms
                                   Game logic, data pipelines           Toolbox expansion
 
-Enterprise backend scaling   →    .NET, Blazor, SQL Server        →    Mentored 7+ engineers
-                                  REST APIs, JWT, clean arch.         CRUD at scale
-                                  Role-based access control            Production patterns
+Enterprise backend scaling   →    ASP.NET (C#), Entity Framework  →    Mentored 7+ engineers
+                                  HTML/CSS/JS/jQuery frontend         CRUD at scale
+                                  SQL Server, REST APIs, JWT          Production patterns
 
 Web framework mastery        →    Django, Python, ORM             →    Production ready
                                   Database migrations, deployment      Learning patterns
