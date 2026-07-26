@@ -159,16 +159,17 @@ Full-stack when the project demands it, backend by instinct. I like taking a sys
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Keyuri292&show_icons=true&count_private=true&hide_border=true&bg_color=1A0B2E&title_color=FF6B6B&icon_color=FF9E45&text_color=FFF3E4&ring_color=FF9E45" alt="Keyuri's GitHub Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keyuri292&theme=radical" alt="Keyuri's GitHub Stats"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=Keyuri292&background=1A0B2E&ring=FF6B6B&fire=FF9E45&currStreakLabel=FFD166&sideNums=FF9E45&sideLabels=FFF3E4&dates=FFF3E4&currStreakNum=ffffff&hide_border=true" alt="Keyuri's Streak Stats"/>
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keyuri292&layout=compact&hide_border=true&bg_color=1A0B2E&title_color=FF6B6B&text_color=FFF3E4" alt="Keyuri's Most Used Languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keyuri292&theme=radical" alt="Repos Per Language"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keyuri292&theme=radical" alt="Most Commit Language"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Keyuri292&theme=dark_lover&row=1&column=6&margin-w=12&margin-h=12&no-frame=true" alt="Trophies"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keyuri292&theme=radical" alt="Profile Details"/>
 
 <br/><br/>
 
